@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6087474499631040380}
   - component: {fileID: 955670190262813342}
   m_Layer: 0
-  m_Name: CoffeePickup
+  m_Name: Collectible
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
